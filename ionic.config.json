@@ -1,7 +1,0 @@
-{
-  "name": "TareaIonicc",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
